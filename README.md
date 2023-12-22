@@ -41,7 +41,7 @@
 ## 👥 Team Members
 
 - [Atabak Alishiri](https://github.com/atabak-alishiri)
-- [Mohammad Norozui](https://github.com/MoNorouzi23)
+- [Mohammad Norouzi](https://github.com/MoNorouzi23)
 
 ---
 
