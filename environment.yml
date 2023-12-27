@@ -22,6 +22,9 @@ dependencies:
   - scipy=1.11
   - seaborn=0.13.0
   - altair_ally=0.1.0
+  - shap
+  - lightgbm
+  - xgboost
   # commenting below to prevent errors with docker build
   # docker automatically installs these packages when installing altair
   # - vl-convert-python=1.1
