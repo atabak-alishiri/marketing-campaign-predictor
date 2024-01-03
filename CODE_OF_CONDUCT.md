@@ -1,7 +1,7 @@
 # Contributor Code of Contact
 ---
 
-This code of conduct governs the 522-workflows-group-18 data analysis environment. In an attempt to create a safe, positive, welcoming, and open community, we as contributers and maintainers of the project vow to respect all of our community members through setting out expected and unacceptable behviours and how they will be dealt with. We pledge to make participation in our data analysis project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+This code of conduct governs the marketing campaign predictor environment. In an attempt to create a safe, positive, welcoming, and open community, we as contributers and maintainers of the project vow to respect all of our community members through setting out expected and unacceptable behviours and how they will be dealt with. We pledge to make participation in our data analysis project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
