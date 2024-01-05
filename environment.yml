@@ -37,3 +37,4 @@ dependencies:
       - vl-convert-python==1.1 # need this for docker build
       - vegafusion==1.4.5
       - vegafusion-python-embed==1.4.5
+      - altair_ally=0.1.0
