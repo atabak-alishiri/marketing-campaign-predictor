@@ -1,0 +1,9 @@
+variable,Zero Values,Missing Values,% of Total Values,Total Zero Missing Values,% Total Zero Missing Values,Data Type
+position_in_content,0,43567,166.7,43567,100.0,float64
+unique_reach,0,43567,166.7,43567,100.0,float64
+total_reach,0,43567,166.7,43567,100.0,float64
+max_bid_cpm,0,39105,149.7,39105,89.8,float64
+creative_width,4458,2061,7.8,6519,15.0,float64
+creative_height,4458,2061,7.8,6519,15.0,float64
+template_id,0,2061,7.8,2061,4.7,float64
+approved_budget,0,260,0.9,260,0.6,float64
